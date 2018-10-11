@@ -1,0 +1,5 @@
+# 2nd-Coding
+CS1
+noStroke();
+fill(145,100,155);
+ellipse(60,100,32,32);
